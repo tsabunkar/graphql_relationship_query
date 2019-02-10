@@ -1,0 +1,11 @@
+query {  
+  users {
+    id
+    name
+    comments {
+      id
+      text
+    }
+  }
+  
+}

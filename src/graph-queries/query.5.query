@@ -1,0 +1,10 @@
+query {  
+comments {
+  text
+  post{
+    title
+  }
+}
+  
+  
+}

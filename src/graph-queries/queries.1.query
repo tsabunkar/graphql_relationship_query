@@ -1,0 +1,13 @@
+query {  
+  posts {
+    id
+    title
+    author {
+      name
+      id
+    }
+   
+  }
+  
+  
+}
